@@ -1,4 +1,4 @@
-# Spring_study_WEEK1
+# spring_study_week1
 
 # 의존성 관리가 왜 필요한가?
 + 소스의 중복 발생
